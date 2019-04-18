@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1527090526205-beaac8dc3c62?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.test-css {
+  color: #ffffff;
+}
+
+.test-css:hover {
+  color: #26f7ff;
+}
+/* 
+@keyframes neon6 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #26f7ff,
+      0 0 20px #26f7ff, 0 0 30px #26f7ff, 0 0 40px #26f7ff, 0 0 50px #26f7ff;
+  }
+  to {
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #26f7ff,
+      0 0 35px #26f7ff, 0 0 40px #26f7ff, 0 0 50px #26f7ff, 0 0 55px #26f7ff;
+  }
+} */
