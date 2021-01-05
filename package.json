@@ -8,7 +8,7 @@
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
     "aws-sdk": "^2.422.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-mock-adapter": "^1.16.0",
     "bcryptjs": "^2.4.3",
     "connect-pg-simple": "^5.0.0",
